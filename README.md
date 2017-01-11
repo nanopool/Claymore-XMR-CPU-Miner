@@ -49,7 +49,7 @@ COMMAND LINE OPTIONS:
 
 SAMPLE USAGE
 
-NsCpuCNMiner64.exe -o stratum+tcp://mine.moneropool.org:80 -u 449TGay4WWJPwsXrWZfkMoPtDbJp8xoSzFuyjRt3iaM4bRHdzw4qoDu26FdcGx67BMDS1r2bnp7f5hF 6xdPWWrD3Q3Wf7G6 -p x
+NsCpuCNMiner64.exe -o stratum+tcp://xmr-eu1.nanopool.org:14444 -u YourWallet.YourPaymentID.YourWorker/YourEmail -p x
 
 Do not forget to specify your wallet address!
 
